@@ -1,0 +1,10 @@
+{0: 'Acne',
+ 1: 'Alopecia Areata',
+ 2: 'EBS',
+ 3: 'Herpes Zoster',
+ 4: 'Infected Scabies',
+ 5: 'Leishminiasis',
+ 6: 'Lichen Planus',
+ 7: 'Psoriais',
+ 8: 'PV',
+ 9: 'Scabies'}
